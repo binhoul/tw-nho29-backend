@@ -19,3 +19,4 @@ Then you will get a docker image of ${project.group}/${bootJar.baseName}
 docker images
 output: com.thoughtworks.nho/gs-spring-boot-docker:latest
 ```
+
